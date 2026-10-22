@@ -20,6 +20,10 @@
 Исходный датасет включает **541 909 строк** и **8 столбцов**.
 **Источник данных:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
 
+**Лицензия:** CC BY 4.0 (Creative Commons Attribution 4.0 International).
+
+**Подготовка данных:** скачайте исходный файл `OnlineRetail.xlsx` со страницы [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail) и поместите его в папку `data/` проекта.
+
 **Инструменты проекта:** Python, Pandas, JupyterLab, PostgreSQL, DBeaver, Matplotlib, SQLAlchemy, GitHub.
 
 ## 2. Первичный анализ и качество данных
