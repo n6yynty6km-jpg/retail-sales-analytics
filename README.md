@@ -74,7 +74,7 @@
 
 Выручка была сгруппирована по странам.
 
-![Топ стран](reports/plot_country.png)
+<img width="2499" height="1635" alt="plot_сountry" src="https://github.com/user-attachments/assets/6e8d0603-f546-4852-882a-8668db8c6520" />
 
 **Топ-5 стран по выручке:**
 1. Великобритания: 9 001 744.094
